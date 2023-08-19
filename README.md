@@ -12,9 +12,6 @@ Code is up now, ⭐ (Star) the repo to receive updates
 
 Replit and streamlit version coming soon
 
-Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) on twitter for updates
-
-Subscribe to https://www.youtube.com/@AnilChandraNaiduMatcha for more such video tutorials
 
 ### How to run ? (Things might change based on OS)
 
